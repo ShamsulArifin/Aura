@@ -1,68 +1,92 @@
 # Aura
 
-**Aura** is an experimental Unreal Engine project developed by [Shamsul Arifin](https://github.com/ShamsulArifin). The repository contains source code and configuration files for building and deploying the project across various platforms, including HoloLens.
+**Aura** is an experimental Unreal Engine project focused on the implementation and exploration of the **Gameplay Ability System (GAS)**. It serves as a foundation for building scalable and modular gameplay mechanics such as character abilities, attributes, and status effects using GAS.
 
-## Project Overview
+---
 
-This project leverages Unreal Engine to create immersive experiences, with a particular focus on augmented reality (AR) applications. The inclusion of HoloLens-specific configurations suggests an emphasis on AR development.
+## 🚀 Project Goals
 
-## Repository Structure
+* Implement and understand core concepts of GAS in Unreal Engine.
+* Build a modular and extensible gameplay framework.
+* Create and manage custom attributes, effects, and abilities.
+* Use gameplay tags to manage ability conditions and states.
+* Combine C++ and Blueprint workflows for rapid iteration.
 
-* **`Aura.uproject`**: The main Unreal Engine project file.
-* **`Source/`**: Contains the C++ source code for the project.
-* **`Config/`**: Houses configuration files for the project.
-* **`Platforms/HoloLens/Config/`**: Platform-specific configurations tailored for HoloLens deployment.
-* **`.idea/`**: Project settings for JetBrains IDEs like Rider or CLion.
+---
 
-## Technologies Used
+## 🔧 Technologies Used
 
-* **Unreal Engine**: The primary game engine used for development.
-* **C++**: Main programming language for the project's source code.
-* **C#**: Used for scripting and possibly editor extensions.
-* **HoloLens**: Target platform for AR experiences.
+* **Unreal Engine** (5.x)
+* **Gameplay Ability System (GAS)**
+* **C++**
+* **Blueprints**
 
-## Getting Started
+---
 
-To get started with the Aura project:
+## 📁 Project Structure
 
-1. **Clone the Repository**:
+```bash
+Aura/
+├── Source/
+│   ├── Aura/                   # Core gameplay code
+│   ├── AbilitySystem/          # GAS setup: abilities, effects, attributes
+│   └── Characters/             # Base and playable characters
+├── Config/
+├── Aura.uproject
+└── .idea/                      # IDE project settings (optional)
+```
+
+---
+
+## 🧩 Key Features
+
+* ✅ Custom Attribute Sets (Health, Mana, etc.)
+* ✅ Gameplay Effects (damage, healing, buffs)
+* ✅ Ability activation and input binding
+* ✅ Gameplay Tags for ability control
+* ✅ Blueprint + C++ hybrid design
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/ShamsulArifin/Aura.git
    ```
 
+2. **Open the Project**
+   Launch Unreal Engine and open `Aura.uproject`.
 
+3. **Compile (if using source build)**
+   Use Visual Studio or Rider to build the project.
 
-2. **Open in Unreal Engine**:
+4. **Play and Test**
+   Use the editor to run the game and test ability functionality.
 
-   * Launch Unreal Engine.
-   * Open the `Aura.uproject` file.
+---
 
-3. **Build the Project**:
+## 📚 Learning Resources
 
-   * Use Unreal Engine's build tools to compile the project for your desired platform.
+This project builds on concepts from:
 
-4. **Deploy to HoloLens** (if applicable):
+* Official Unreal Engine GAS documentation
+* Tom Looman’s GAS tutorials
+* Community GitHub examples
 
-   * Ensure you have the necessary SDKs and tools installed for HoloLens development.
-   * Follow Unreal Engine's guidelines for deploying projects to HoloLens.
+---
 
-## Contributing
+## 🤝 Contributions
 
-As this is an experimental project, contributions are welcome. Please fork the repository and submit a pull request with your enhancements or fixes.
+Feel free to fork the repo and open a pull request. Suggestions, improvements, or bug fixes are always welcome!
 
-## License
+---
+
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-Special thanks to the Unreal Engine community and all contributors who make AR development accessible and innovative.
-
 ---
 
-*Note: This README is based on the available information from the repository. For more detailed documentation and updates, please refer to the repository's [Issues](https://github.com/ShamsulArifin/Aura/issues) and [Pull Requests](https://github.com/ShamsulArifin/Aura/pulls) sections.*
-
----
-
-[1]: https://auraphp.com/contributing/?utm_source=chatgpt.com "Aura for PHP : Contributing"
+Let me know if you'd like to add diagrams, a roadmap, or example GIFs of the abilities in action!
