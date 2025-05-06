@@ -38,7 +38,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Uproject.Aura.executor": "Debug",
+    "Uproject.Aura.executor": "Run",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -144,6 +144,7 @@
       <workItem from="1746336317102" duration="7032000" />
       <workItem from="1746427090990" duration="65000" />
       <workItem from="1746506263985" duration="2288000" />
+      <workItem from="1746528198698" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
