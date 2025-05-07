@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Gameplay abilities plugin enabled" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Character/AuraEnemy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Player/AuraPlayerController.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Aura.uproject" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -145,7 +142,7 @@
       <workItem from="1746427090990" duration="65000" />
       <workItem from="1746506263985" duration="2288000" />
       <workItem from="1746528198698" duration="623000" />
-      <workItem from="1746596606694" duration="302000" />
+      <workItem from="1746596606694" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -227,7 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746355317379</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changes">
+      <option name="closed" value="true" />
+      <created>1746597010812</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746597010812</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Gameplay abilities plugin enabled">
+      <option name="closed" value="true" />
+      <created>1746597321464</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746597321464</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +280,8 @@
     <MESSAGE value="Added gamemode and movement" />
     <MESSAGE value="Added EnemyInterface" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="Gameplay abilities plugin enabled" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gameplay abilities plugin enabled" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
