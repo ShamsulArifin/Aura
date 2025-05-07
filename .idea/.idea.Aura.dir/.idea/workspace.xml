@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes to workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added AbilitySystemComponent and AttributeSet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +19,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://D:/Arifin Backup/Aura/Aura.uproject" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Aura.uproject" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Aura.Build.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -147,7 +144,7 @@
       <workItem from="1746427090990" duration="65000" />
       <workItem from="1746506263985" duration="2288000" />
       <workItem from="1746528198698" duration="623000" />
-      <workItem from="1746596606694" duration="1158000" />
+      <workItem from="1746596606694" duration="4397000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -253,7 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746597378116</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added gameplay modules">
+      <option name="closed" value="true" />
+      <created>1746597817589</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746597817589</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added AbilitySystemComponent and AttributeSet">
+      <option name="closed" value="true" />
+      <created>1746597862887</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746597862887</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,7 +308,9 @@
     <MESSAGE value="changes" />
     <MESSAGE value="Gameplay abilities plugin enabled" />
     <MESSAGE value="changes to workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to workspace.xml" />
+    <MESSAGE value="Added gameplay modules" />
+    <MESSAGE value="Added AbilitySystemComponent and AttributeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AbilitySystemComponent and AttributeSet" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
