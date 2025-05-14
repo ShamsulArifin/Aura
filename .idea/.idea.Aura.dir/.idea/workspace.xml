@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="added ability actor info">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added attribute Sets">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" afterDir="false" />
@@ -21,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Character/AuraCharacter.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -39,7 +40,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Uproject.Aura.executor": "Run",
+    "Uproject.Aura.executor": "Debug",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -150,7 +151,7 @@
       <workItem from="1746684043996" duration="2838000" />
       <workItem from="1746695735819" duration="723000" />
       <workItem from="1747110574800" duration="7710000" />
-      <workItem from="1747194601772" duration="8784000" />
+      <workItem from="1747194601772" duration="10840000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -312,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747210985750</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added attribute Sets">
+      <option name="closed" value="true" />
+      <created>1747216680720</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747216680720</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +366,8 @@
     <MESSAGE value="changes to workspace.xml" />
     <MESSAGE value="changes" />
     <MESSAGE value="added ability actor info" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ability actor info" />
+    <MESSAGE value="Added attribute Sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added attribute Sets" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
