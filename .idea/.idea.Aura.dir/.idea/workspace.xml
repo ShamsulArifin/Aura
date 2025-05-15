@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="workspace.xml changes">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +153,7 @@
       <workItem from="1747219916745" duration="80000" />
       <workItem from="1747220013684" duration="207000" />
       <workItem from="1747220369905" duration="1344000" />
-      <workItem from="1747281799950" duration="4576000" />
+      <workItem from="1747281799950" duration="6771000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -358,7 +355,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747281860553</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added effect actor">
+      <option name="closed" value="true" />
+      <created>1747287769722</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1747287769722</updated>
+    </task>
+    <task id="LOCAL-00027" summary="changes">
+      <option name="closed" value="true" />
+      <created>1747287777132</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1747287777132</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,9 +418,10 @@
     <MESSAGE value="Added attribute Sets" />
     <MESSAGE value="Added attribute accessors" />
     <MESSAGE value="workspace changes" />
-    <MESSAGE value="changes" />
     <MESSAGE value="workspace.xml changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml changes" />
+    <MESSAGE value="Added effect actor" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
