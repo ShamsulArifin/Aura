@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://E:/Unreal Projects/Aura/Source/Aura/Private/UI/Widget/AuraUserWidget.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/UI/HUD/AuraHUD.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -38,14 +36,14 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Uproject.Aura.executor": "Debug",
+    "Uproject.Aura.executor": "Run",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "background.image.plus",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -160,6 +158,7 @@
       <workItem from="1747405510599" duration="3564000" />
       <workItem from="1747451556793" duration="381000" />
       <workItem from="1747451966157" duration="175000" />
+      <workItem from="1747452175470" duration="10797000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -425,7 +424,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747410694138</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added health and mana widgets">
+      <option name="closed" value="true" />
+      <created>1747464240959</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1747464240959</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added HUD class">
+      <option name="closed" value="true" />
+      <created>1747477840570</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1747477840570</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added widget controller structs">
+      <option name="closed" value="true" />
+      <created>1747481922161</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1747481922161</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,7 +501,10 @@
     <MESSAGE value="changes" />
     <MESSAGE value="Added UserWidget and WidgetController" />
     <MESSAGE value="Added globe progressbar widget" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added globe progressbar widget" />
+    <MESSAGE value="Added health and mana widgets" />
+    <MESSAGE value="Added HUD class" />
+    <MESSAGE value="Added widget controller structs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added widget controller structs" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
