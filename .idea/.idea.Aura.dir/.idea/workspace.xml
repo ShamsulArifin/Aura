@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added broadcast initial attribute values">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="added callback delegates">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/HUD/AuraHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/HUD/AuraHUD.cpp" afterDir="false" />
@@ -25,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/UI/HUD/AuraHUD.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -171,7 +172,7 @@
       <workItem from="1747559240714" duration="3007000" />
       <workItem from="1747633021867" duration="709000" />
       <workItem from="1747714805123" duration="982000" />
-      <workItem from="1747719380751" duration="7679000" />
+      <workItem from="1747719380751" duration="8334000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -469,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747733580833</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="added callback delegates">
+      <option name="closed" value="true" />
+      <created>1747739893968</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1747739893968</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +535,8 @@
     <MESSAGE value="Added HUD class" />
     <MESSAGE value="Added widget controller structs" />
     <MESSAGE value="Added broadcast initial attribute values" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added broadcast initial attribute values" />
+    <MESSAGE value="added callback delegates" />
+    <option name="LAST_COMMIT_MESSAGE" value="added callback delegates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
