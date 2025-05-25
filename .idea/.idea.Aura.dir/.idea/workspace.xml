@@ -7,8 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added debug console command">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +175,7 @@
       <workItem from="1747888721712" duration="4560000" />
       <workItem from="1748060381152" duration="3615000" />
       <workItem from="1748074056244" duration="8911000" />
-      <workItem from="1748142973016" duration="2531000" />
+      <workItem from="1748142973016" duration="3993000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -552,7 +553,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748086167853</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Directory rearranged">
+      <option name="closed" value="true" />
+      <created>1748153403143</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1748153403143</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added debug console command">
+      <option name="closed" value="true" />
+      <created>1748153924718</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1748153924718</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,8 +602,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Gameplay abilities plugin enabled" />
-    <MESSAGE value="Added gameplay modules" />
     <MESSAGE value="Added AbilitySystemComponent and AttributeSet" />
     <MESSAGE value="added ability actor info" />
     <MESSAGE value="Added attribute Sets" />
@@ -610,7 +625,9 @@
     <MESSAGE value="Added periodic gameplay effect" />
     <MESSAGE value="Added effects stacking" />
     <MESSAGE value="Added infinite gameplay effect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added infinite gameplay effect" />
+    <MESSAGE value="Directory rearranged" />
+    <MESSAGE value="Added debug console command" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added debug console command" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
