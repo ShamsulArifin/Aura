@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added debug console command">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added effect application and removal policy">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Public/Actor/AuraEffectActor.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Public/Actor/AuraEffectActor.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -175,31 +176,7 @@
       <workItem from="1747888721712" duration="4560000" />
       <workItem from="1748060381152" duration="3615000" />
       <workItem from="1748074056244" duration="8911000" />
-      <workItem from="1748142973016" duration="3993000" />
-    </task>
-    <task id="LOCAL-00001" summary="Init">
-      <option name="closed" value="true" />
-      <created>1746264840156</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1746264840156</updated>
-    </task>
-    <task id="LOCAL-00002" summary="workspace settings">
-      <option name="closed" value="true" />
-      <created>1746265257620</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1746265257620</updated>
-    </task>
-    <task id="LOCAL-00003" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746265300377</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1746265300377</updated>
+      <workItem from="1748142973016" duration="4605000" />
     </task>
     <task id="LOCAL-00004" summary="changes to gitignore">
       <option name="closed" value="true" />
@@ -569,7 +546,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748153924718</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Added fire area for infinite effect">
+      <option name="closed" value="true" />
+      <created>1748154868065</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1748154868065</updated>
+    </task>
+    <task id="LOCAL-00051" summary="changes to workspace.xml">
+      <option name="closed" value="true" />
+      <created>1748154882437</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1748154882437</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Added effect application and removal policy">
+      <option name="closed" value="true" />
+      <created>1748154911741</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1748154911741</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,8 +603,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added AbilitySystemComponent and AttributeSet" />
-    <MESSAGE value="added ability actor info" />
     <MESSAGE value="Added attribute Sets" />
     <MESSAGE value="Added attribute accessors" />
     <MESSAGE value="workspace changes" />
@@ -617,7 +616,6 @@
     <MESSAGE value="Added widget controller structs" />
     <MESSAGE value="Added broadcast initial attribute values" />
     <MESSAGE value="added callback delegates" />
-    <MESSAGE value="changes to workspace.xml" />
     <MESSAGE value="Added callbacks for mana changes" />
     <MESSAGE value="improved effect actor" />
     <MESSAGE value="changes" />
@@ -627,7 +625,10 @@
     <MESSAGE value="Added infinite gameplay effect" />
     <MESSAGE value="Directory rearranged" />
     <MESSAGE value="Added debug console command" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added debug console command" />
+    <MESSAGE value="Added fire area for infinite effect" />
+    <MESSAGE value="changes to workspace.xml" />
+    <MESSAGE value="Added effect application and removal policy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added effect application and removal policy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
