@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added infinite effect application and removal">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" afterDir="false" />
@@ -23,6 +23,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -181,15 +182,9 @@
       <workItem from="1747888721712" duration="4560000" />
       <workItem from="1748060381152" duration="3615000" />
       <workItem from="1748074056244" duration="8911000" />
-      <workItem from="1748142973016" duration="13878000" />
-    </task>
-    <task id="LOCAL-00006" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746266484916</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1746266484916</updated>
+      <workItem from="1748142973016" duration="14705000" />
+      <workItem from="1748229461442" duration="387000" />
+      <workItem from="1748232980828" duration="3594000" />
     </task>
     <task id="LOCAL-00007" summary="Added gamemode and movement">
       <option name="closed" value="true" />
@@ -575,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748168278947</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Added pre-attribute change">
+      <option name="closed" value="true" />
+      <created>1748170211648</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1748170211648</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="workspace changes" />
     <MESSAGE value="workspace.xml changes" />
     <MESSAGE value="Added effect actor" />
     <MESSAGE value="added files" />
@@ -633,7 +635,8 @@
     <MESSAGE value="Added effect application and removal policy" />
     <MESSAGE value="Addded instant &amp; duration application policy" />
     <MESSAGE value="Added infinite effect application and removal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added infinite effect application and removal" />
+    <MESSAGE value="Added pre-attribute change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added pre-attribute change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

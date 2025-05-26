@@ -3,6 +3,7 @@
 
 #include "AbilitySystem/AuraAttributeSet.h"
 #include "Net/UnrealNetwork.h"
+#include "GameplayEffectExtension.h"
 
 UAuraAttributeSet::UAuraAttributeSet()
 {
@@ -36,6 +37,17 @@ void UAuraAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, 
 		NewValue = FMath::Clamp(NewValue, 0.f, GetMaxMana());
 	}
 	
+}
+
+void UAuraAttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data)
+{
+	Super::PostGameplayEffectExecute(Data);
+
+	if (Data.EvaluatedData.Attribute == GetHealthAttribute())
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Health from GetHealth(): %f"), GetHealth());
+		UE_LOG(LogTemp, Warning, TEXT("Magnitude: %f"), Data.EvaluatedData.Magnitude);
+	}
 }
 
 void UAuraAttributeSet::OnRep_Health(const FGameplayAttributeData& OldHealth) const
