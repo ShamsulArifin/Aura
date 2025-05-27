@@ -7,10 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added post gameplay effect execute">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,15 +183,7 @@
       <workItem from="1748323243363" duration="21000" />
       <workItem from="1748323283210" duration="491000" />
       <workItem from="1748323801069" duration="1501000" />
-      <workItem from="1748325333108" duration="3661000" />
-    </task>
-    <task id="LOCAL-00007" summary="Added gamemode and movement">
-      <option name="closed" value="true" />
-      <created>1746274448713</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1746274448713</updated>
+      <workItem from="1748325333108" duration="6774000" />
     </task>
     <task id="LOCAL-00008" summary="Added EnemyInterface">
       <option name="closed" value="true" />
@@ -576,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748170211648</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Added post gameplay effect execute">
+      <option name="closed" value="true" />
+      <created>1748333321283</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1748333321284</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +610,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="workspace.xml changes" />
     <MESSAGE value="Added effect actor" />
     <MESSAGE value="added files" />
     <MESSAGE value="Added UserWidget and WidgetController" />
@@ -634,7 +634,8 @@
     <MESSAGE value="Addded instant &amp; duration application policy" />
     <MESSAGE value="Added infinite effect application and removal" />
     <MESSAGE value="Added pre-attribute change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pre-attribute change" />
+    <MESSAGE value="Added post gameplay effect execute" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added post gameplay effect execute" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
