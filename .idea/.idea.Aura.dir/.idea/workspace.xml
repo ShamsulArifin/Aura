@@ -21,14 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Public/Actor/AuraEffectActor.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -185,6 +178,11 @@
       <workItem from="1748142973016" duration="14705000" />
       <workItem from="1748229461442" duration="387000" />
       <workItem from="1748232980828" duration="3594000" />
+      <workItem from="1748315962528" duration="2139000" />
+      <workItem from="1748323243363" duration="21000" />
+      <workItem from="1748323283210" duration="491000" />
+      <workItem from="1748323801069" duration="1501000" />
+      <workItem from="1748325333108" duration="3661000" />
     </task>
     <task id="LOCAL-00007" summary="Added gamemode and movement">
       <option name="closed" value="true" />
