@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added post gameplay effect execute">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added curve table for scalable floats" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -183,15 +179,7 @@
       <workItem from="1748323243363" duration="21000" />
       <workItem from="1748323283210" duration="491000" />
       <workItem from="1748323801069" duration="1501000" />
-      <workItem from="1748325333108" duration="6774000" />
-    </task>
-    <task id="LOCAL-00008" summary="Added EnemyInterface">
-      <option name="closed" value="true" />
-      <created>1746349944542</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1746349944542</updated>
+      <workItem from="1748325333108" duration="7411000" />
     </task>
     <task id="LOCAL-00009" summary="changes">
       <option name="closed" value="true" />
@@ -577,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748333321284</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Added curve table for scalable floats">
+      <option name="closed" value="true" />
+      <created>1748339581615</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1748339581615</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +606,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added effect actor" />
     <MESSAGE value="added files" />
     <MESSAGE value="Added UserWidget and WidgetController" />
     <MESSAGE value="Added globe progressbar widget" />
@@ -635,7 +630,8 @@
     <MESSAGE value="Added infinite effect application and removal" />
     <MESSAGE value="Added pre-attribute change" />
     <MESSAGE value="Added post gameplay effect execute" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added post gameplay effect execute" />
+    <MESSAGE value="Added curve table for scalable floats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added curve table for scalable floats" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
