@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added gameplay tags from data table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,14 +181,7 @@
       <workItem from="1748323801069" duration="1501000" />
       <workItem from="1748325333108" duration="7411000" />
       <workItem from="1748491278676" duration="1037000" />
-    </task>
-    <task id="LOCAL-00009" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746355288500</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1746355288500</updated>
+      <workItem from="1748495146446" duration="877000" />
     </task>
     <task id="LOCAL-00010" summary="changes">
       <option name="closed" value="true" />
@@ -576,7 +567,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748339581615</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Added gameplay tags from data table">
+      <option name="closed" value="true" />
+      <created>1748497191690</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1748497191690</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,7 +608,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added files" />
     <MESSAGE value="Added UserWidget and WidgetController" />
     <MESSAGE value="Added globe progressbar widget" />
     <MESSAGE value="Added health and mana widgets" />
@@ -634,7 +632,8 @@
     <MESSAGE value="Added pre-attribute change" />
     <MESSAGE value="Added post gameplay effect execute" />
     <MESSAGE value="Added curve table for scalable floats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added curve table for scalable floats" />
+    <MESSAGE value="Added gameplay tags from data table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gameplay tags from data table" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
