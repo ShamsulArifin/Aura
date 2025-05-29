@@ -7,7 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added gameplay tags from data table" />
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes to workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,15 +186,8 @@
       <workItem from="1748323801069" duration="1501000" />
       <workItem from="1748325333108" duration="7411000" />
       <workItem from="1748491278676" duration="1037000" />
-      <workItem from="1748495146446" duration="877000" />
-    </task>
-    <task id="LOCAL-00010" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746355317379</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1746355317379</updated>
+      <workItem from="1748495146446" duration="4446000" />
+      <workItem from="1748514061203" duration="688000" />
     </task>
     <task id="LOCAL-00011" summary="changes">
       <option name="closed" value="true" />
@@ -575,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748497191690</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="changes to workspace">
+      <option name="closed" value="true" />
+      <created>1748497224202</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1748497224202</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +614,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added UserWidget and WidgetController" />
     <MESSAGE value="Added globe progressbar widget" />
     <MESSAGE value="Added health and mana widgets" />
     <MESSAGE value="Added HUD class" />
@@ -633,7 +638,8 @@
     <MESSAGE value="Added post gameplay effect execute" />
     <MESSAGE value="Added curve table for scalable floats" />
     <MESSAGE value="Added gameplay tags from data table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gameplay tags from data table" />
+    <MESSAGE value="changes to workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to workspace" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
