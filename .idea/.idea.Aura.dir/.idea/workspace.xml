@@ -7,11 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes to workspace">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraCharacterBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraEnemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraEnemy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAbilitySystemComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAbilitySystemComponent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacterBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraEnemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraEnemy.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -187,15 +191,8 @@
       <workItem from="1748325333108" duration="7411000" />
       <workItem from="1748491278676" duration="1037000" />
       <workItem from="1748495146446" duration="4446000" />
-      <workItem from="1748514061203" duration="688000" />
-    </task>
-    <task id="LOCAL-00011" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746597010812</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746597010812</updated>
+      <workItem from="1748514061203" duration="1456000" />
+      <workItem from="1748749969254" duration="9284000" />
     </task>
     <task id="LOCAL-00012" summary="Gameplay abilities plugin enabled">
       <option name="closed" value="true" />
@@ -581,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748497224202</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Added gameplay tags with effects">
+      <option name="closed" value="true" />
+      <created>1748517253907</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1748517253908</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,7 +619,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added globe progressbar widget" />
     <MESSAGE value="Added health and mana widgets" />
     <MESSAGE value="Added HUD class" />
     <MESSAGE value="Added widget controller structs" />
@@ -639,7 +643,8 @@
     <MESSAGE value="Added curve table for scalable floats" />
     <MESSAGE value="Added gameplay tags from data table" />
     <MESSAGE value="changes to workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to workspace" />
+    <MESSAGE value="Added gameplay tags with effects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gameplay tags with effects" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
