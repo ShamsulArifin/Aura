@@ -7,7 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added UI Widget Data Table" />
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes to workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,15 +198,7 @@
       <workItem from="1749009663280" duration="382000" />
       <workItem from="1750829071815" duration="216000" />
       <workItem from="1750829321219" duration="5296000" />
-      <workItem from="1752378664215" duration="2403000" />
-    </task>
-    <task id="LOCAL-00015" summary="Added AbilitySystemComponent and AttributeSet">
-      <option name="closed" value="true" />
-      <created>1746597862887</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1746597862887</updated>
+      <workItem from="1752378664215" duration="3711000" />
     </task>
     <task id="LOCAL-00016" summary="changes to workspace.xml">
       <option name="closed" value="true" />
@@ -583,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752381143949</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="changes to workspace.xml">
+      <option name="closed" value="true" />
+      <created>1752381174539</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1752381174539</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +637,6 @@
     <MESSAGE value="Directory rearranged" />
     <MESSAGE value="Added debug console command" />
     <MESSAGE value="Added fire area for infinite effect" />
-    <MESSAGE value="changes to workspace.xml" />
     <MESSAGE value="Added effect application and removal policy" />
     <MESSAGE value="Addded instant &amp; duration application policy" />
     <MESSAGE value="Added infinite effect application and removal" />
@@ -641,7 +649,8 @@
     <MESSAGE value="added assets tag" />
     <MESSAGE value="broadcasting effect asset tags" />
     <MESSAGE value="Added UI Widget Data Table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added UI Widget Data Table" />
+    <MESSAGE value="changes to workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to workspace.xml" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
