@@ -7,10 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="10. Retrieving Rows from Data Tables">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="11. Broadcasting Data Table Rows">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/AbilitySystem/AuraAbilitySystemComponent.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arifin Backup/Aura/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -193,15 +193,7 @@
       <workItem from="1749009663280" duration="382000" />
       <workItem from="1750829071815" duration="216000" />
       <workItem from="1750829321219" duration="5296000" />
-      <workItem from="1752378664215" duration="5786000" />
-    </task>
-    <task id="LOCAL-00017" summary="changes">
-      <option name="closed" value="true" />
-      <created>1746694343766</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1746694343766</updated>
+      <workItem from="1752378664215" duration="8338000" />
     </task>
     <task id="LOCAL-00018" summary="changes">
       <option name="closed" value="true" />
@@ -587,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752385673545</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="11. Broadcasting Data Table Rows">
+      <option name="closed" value="true" />
+      <created>1752389153808</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1752389153808</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +620,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added callback delegates" />
     <MESSAGE value="Added callbacks for mana changes" />
     <MESSAGE value="improved effect actor" />
     <MESSAGE value="changes" />
@@ -645,7 +644,8 @@
     <MESSAGE value="Added UI Widget Data Table" />
     <MESSAGE value="changes to workspace.xml" />
     <MESSAGE value="10. Retrieving Rows from Data Tables" />
-    <option name="LAST_COMMIT_MESSAGE" value="10. Retrieving Rows from Data Tables" />
+    <MESSAGE value="11. Broadcasting Data Table Rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="11. Broadcasting Data Table Rows" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
