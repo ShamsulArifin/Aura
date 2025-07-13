@@ -7,13 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="changes to workspace.xml">
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="10. Retrieving Rows from Data Tables">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/GE_CrystalMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionHeal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/GE_PotionMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
     </list>
@@ -198,15 +193,7 @@
       <workItem from="1749009663280" duration="382000" />
       <workItem from="1750829071815" duration="216000" />
       <workItem from="1750829321219" duration="5296000" />
-      <workItem from="1752378664215" duration="3711000" />
-    </task>
-    <task id="LOCAL-00016" summary="changes to workspace.xml">
-      <option name="closed" value="true" />
-      <created>1746606465830</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1746606465830</updated>
+      <workItem from="1752378664215" duration="5786000" />
     </task>
     <task id="LOCAL-00017" summary="changes">
       <option name="closed" value="true" />
@@ -592,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752381174539</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="10. Retrieving Rows from Data Tables">
+      <option name="closed" value="true" />
+      <created>1752385673545</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1752385673545</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +620,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added broadcast initial attribute values" />
     <MESSAGE value="added callback delegates" />
     <MESSAGE value="Added callbacks for mana changes" />
     <MESSAGE value="improved effect actor" />
@@ -650,7 +644,8 @@
     <MESSAGE value="broadcasting effect asset tags" />
     <MESSAGE value="Added UI Widget Data Table" />
     <MESSAGE value="changes to workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to workspace.xml" />
+    <MESSAGE value="10. Retrieving Rows from Data Tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="10. Retrieving Rows from Data Tables" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
