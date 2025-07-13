@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetController/OverlayWidgetController.h" afterDir="false" />
-    </list>
+    <list default="true" id="e1ccd925-a03a-44e4-be5e-aad7bdb8420f" name="Changes" comment="Added UI Widget Data Table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,15 +189,7 @@
       <workItem from="1749009663280" duration="382000" />
       <workItem from="1750829071815" duration="216000" />
       <workItem from="1750829321219" duration="5296000" />
-      <workItem from="1752378664215" duration="2082000" />
-    </task>
-    <task id="LOCAL-00014" summary="Added gameplay modules">
-      <option name="closed" value="true" />
-      <created>1746597817589</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1746597817589</updated>
+      <workItem from="1752378664215" duration="2403000" />
     </task>
     <task id="LOCAL-00015" summary="Added AbilitySystemComponent and AttributeSet">
       <option name="closed" value="true" />
@@ -587,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750840458620</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Added UI Widget Data Table">
+      <option name="closed" value="true" />
+      <created>1752381143948</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1752381143949</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +616,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added widget controller structs" />
     <MESSAGE value="Added broadcast initial attribute values" />
     <MESSAGE value="added callback delegates" />
     <MESSAGE value="Added callbacks for mana changes" />
@@ -645,7 +640,8 @@
     <MESSAGE value="Added gameplay tags with effects" />
     <MESSAGE value="added assets tag" />
     <MESSAGE value="broadcasting effect asset tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="broadcasting effect asset tags" />
+    <MESSAGE value="Added UI Widget Data Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added UI Widget Data Table" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
